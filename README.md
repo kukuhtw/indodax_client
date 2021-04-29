@@ -1,5 +1,10 @@
 # indodax_client
-menampilkan daftar asset cryptocurrency untuk user indodax
+
+<br>Kukuh TW
+<br>kukuhtw@gmail.com
+<br>WA : 628129893706
+
+<h1>menampilkan daftar asset cryptocurrency untuk user indodax</h1>
 
 Memerlukan Akses API View yang dapat anda lihat di Dashboard Indodax,
 Pastikan API yang anda dapat di Indodax, Tidak dishare ke siapapun
